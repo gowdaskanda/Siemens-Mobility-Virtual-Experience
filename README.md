@@ -61,26 +61,6 @@ The presentation includes:
 - Technical Report Writing
 - Technical Presentation
 
----
-
-# Repository Contents
-
-```text
-Siemens-Mobility-Virtual-Experience
-│
-├── README.md
-├── Certificate/
-│   └── Siemens_Mobility_Virtual_Experience_Certificate.pdf
-│
-├── Report/
-│   └── Bottleneck_Improvement_Report.pdf
-│
-└── Presentation/
-    └── Wheel_Assembly_Layout_Proposal.pptx
-```
-
----
-
 # Learning Outcomes
 
 Through this virtual experience, I gained practical exposure to:
