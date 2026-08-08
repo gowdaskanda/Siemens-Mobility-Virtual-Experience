@@ -110,7 +110,7 @@ This repository contains my completed report, presentation, and completion certi
 
 **Skanda Gowda**
 
-MS Industrial Engineering & International Management
+M.Sc. Industrial Engineering & International Management
 
 Mechanical Engineer
 
