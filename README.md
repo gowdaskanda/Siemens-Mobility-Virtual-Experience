@@ -26,7 +26,7 @@ The deliverables included a technical report and a presentation outlining the pr
 
 Prepared a technical report based on the manufacturing scenario provided during the Siemens Mobility Virtual Experience.
 
-The report includes:
+The report included:
 
 - Identification of the primary production bottleneck
 - Analysis of operational constraints
@@ -39,7 +39,7 @@ The report includes:
 
 Prepared a presentation describing a proposed improvement to the Aurora Express wheel assembly layout.
 
-The presentation includes:
+The presentation included:
 
 - Analysis of the existing layout
 - Bottleneck assessment
